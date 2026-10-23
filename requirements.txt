@@ -1,0 +1,4 @@
+streamlit>=1.37
+openpyxl>=3.1
+pandas>=2.0
+numpy
